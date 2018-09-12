@@ -3,5 +3,5 @@ In this repository I'm trying to give you best basic knowledge about Python prog
 
 directory
 
-01 Hello World
-02 Data types
+01 Hello World<br>
+02 Data types<br>
