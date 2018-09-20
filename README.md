@@ -7,3 +7,4 @@ directory
 02 Data types<br>
 03 If_Else Statement<br>
 04 Elif <br>
+05 For Loop <br>
