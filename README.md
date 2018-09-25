@@ -8,3 +8,5 @@ directory
 03 If_Else Statement<br>
 04 Elif <br>
 05 For Loop <br>
+06 While Loop <br>
+07 Random <br>
