@@ -1,0 +1,3 @@
+check internet connection
+check git commit
+check hakerrank
