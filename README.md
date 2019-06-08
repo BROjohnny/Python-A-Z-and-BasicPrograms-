@@ -15,6 +15,10 @@ directory
 10 Dictionary <br>
 11 Method <br>
 12 Using Class <br>
-13 Check your BMI value (first Program)
-14 Finf your Lucky Colour (second Program)
-15 vocabulary store system (thired Program)
+13 Python arguments<br>
+14 Find your Lucky Colour (second Program)<br>
+15 Check your BMI value (first Program)<br>
+16 Online Lottery<br>
+17 File base program<br>
+18 To do list Managment system<br>
+19 vocabulary store system (thired Program)<br>
